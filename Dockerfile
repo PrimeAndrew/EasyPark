@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL mainteiner="wenguz1518@gmail.com"
+LABEL mainteiner="raparicio71@gmail.com"
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get update
